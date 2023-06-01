@@ -1,0 +1,17 @@
+﻿@model CleanArchitecture.Application.TodoLists.Queries.GetTodos.TodosVm
+@{
+    ViewBag.Title = "To Do List Pages";
+}
+
+<h1>
+    This is todo
+</h1>
+
+<div>
+    @foreach(var item in Model.Lists)
+    {
+        <div>
+            @item.Title
+        </div>
+    }
+</div>
