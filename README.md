@@ -1,4 +1,7 @@
-# MIC-CleanArchitecture
+# MIC-CleanArchitecture [Deprecated]
+
+## Will be deleted
+
 clean-architecture MIC in progress
 
 Based on Jason Taylor's clean architecture solution Read: https://jasontaylor.dev/clean-architecture-getting-started/
